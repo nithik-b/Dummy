@@ -17,7 +17,6 @@ body{
 }
 .card{
     display:inline-block;
-    box-shadow:5px black;
 }
 .container{
   display: contents;
