@@ -1,0 +1,27 @@
+.name{
+    background-image:radial-gradient(#BAD0CC,#FFFBA7)
+
+}
+body{
+    background-color:#99CAD9 ;
+}
+.img{
+    filter:grayscale(100%);
+    border-radius:25px;
+    margin: 10px;
+    
+    
+}
+.img:hover{
+    filter: grayscale(0%);
+}
+.card{
+    display:inline-block;
+    box-shadow:5px black;
+}
+.container{
+  display: contents;
+}
+.foot{
+    color:darkblue;
+}
